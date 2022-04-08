@@ -1,4 +1,4 @@
-git+https://github.com/ZauteKm/Pyrogram@master-zip
+pyrogram==1.4.1
 tgcrypto
 pymongo[srv]==3.12.3
 motor==2.5.1
